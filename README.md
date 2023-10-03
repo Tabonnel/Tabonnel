@@ -16,7 +16,7 @@ Application mobile facilitant la mise en relation entre agents immobiliers et pa
 </p>
 <p align="left">
 Programme TW (ffs) 🚀
-Site web pour programmer sur Twitch et son bot Twitter.
+Site web pour planifier son programme Twitch et son bot Twitter.
 #React, #MongoDb, #NodeJs, #API => Twitch, Pandascore, Twitter
 </p>
 <p align="left">
