@@ -4,7 +4,7 @@
 <h3 align="left">Présentation</h3>
 
 <p align="left">
-Après avoir obtenu un master en finance et avoir consacré plusieurs années au financement de projets, je me réoriente vers ma passion : le développement web. Formé à La Capsule et fort de projets concrets, je recherche un stage pour approfondir mes compétences et les mettre au service d'une entreprise. Mon expérience en finance allie rigueur et gestion de projets, compétences que je souhaite désormais appliquer au développement web. 
+Après avoir obtenu un master en finance et avoir consacré plusieurs années au financement de projets, je me réoriente vers le développement web. Formé à La Capsule et fort de projets concrets, je recherche un stage pour approfondir mes compétences et les mettre au service d'une entreprise. Mon expérience en finance allie rigueur et gestion de projets, compétences que je souhaite désormais appliquer au développement web. 
 </p>
 
 <h3 align="left">Projets</h3>
